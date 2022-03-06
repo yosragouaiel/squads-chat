@@ -1,5 +1,4 @@
 # squads-chat
-A real time chat application similar to microsoft teams
 squads chat is real time reponsive web chat application very similar to microsoft teams using react-chat-engine from ReactJS .
 # Home page screen before connection 
 ![image](https://user-images.githubusercontent.com/17564093/156930773-b7a409a4-d3a3-4b91-b96f-793517fd1ebb.png)
