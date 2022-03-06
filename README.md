@@ -10,7 +10,7 @@ squads chat is real time reponsive web chat application very similar to microsof
 ![image](https://user-images.githubusercontent.com/17564093/156930662-875eb720-e7b0-4ffa-884c-5ba00c362301.png)
 
 # Deployment 
-This squads chat application is deployed using netfly 
+This squads chat application is deployed using netlifly 
 take a look here https://squads-chat.netlify.app/
 
 
